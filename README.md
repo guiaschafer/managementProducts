@@ -1,4 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Tutorial
+Para atualizar é necessário incluir o ID desejado para atualização, mais os dados de nome, preço e estoque e clicar no botão Update
+Para adicionar é necessário incluir os dados nos campos e clicar no botão Save.
 
 ## Available Scripts
 
